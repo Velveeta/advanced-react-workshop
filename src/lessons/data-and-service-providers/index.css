@@ -1,0 +1,12 @@
+.clearable-input {
+  display: inline-block;
+  position: relative;
+}
+
+.clearable-input .remove {
+  color: #000;
+  cursor: pointer;
+  position: absolute;
+  right: 8px;
+  top: 2px;
+}

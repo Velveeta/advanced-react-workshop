@@ -1,0 +1,9 @@
+.fixture-cell {
+  border: 1px solid #c00;
+  margin: 5px;
+  padding: 10px;
+}
+
+.mouse-over-me {
+  border: 1px solid #0c0;
+}

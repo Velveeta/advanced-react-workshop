@@ -1,0 +1,11 @@
+.layer {
+  background-color: #fff;
+  border-radius: 5px;
+  color: #000;
+  padding: 10px;
+  position: absolute;
+}
+
+.my-tooltip {
+  display: inline-block;
+}

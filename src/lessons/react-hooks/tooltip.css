@@ -1,0 +1,11 @@
+.react-hooks-tooltip {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  color: #000;
+  padding: 0 5px;
+}
+
+.tooltip-target {
+  display: inline-block;
+}

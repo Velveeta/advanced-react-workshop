@@ -1,0 +1,14 @@
+.dark {
+  background-color: #000;
+  color: #fff;
+}
+
+.light {
+  background-color: #fff;
+  color: #000;
+}
+
+.grouping {
+  border: 1px solid #fff;
+  padding: 10px;
+}
